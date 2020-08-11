@@ -1,7 +1,7 @@
 # E-commerce-Newsletters_open-rate_prediction
 This is the challenge from Shopee Code League 2020 on Marketing Analytics - Building model to predict users open-rate based on past newsletters data collected and our approach is to build build a model to predict if users, with provided data we have on them, would open their future newsletters from us.
 
-More information can be found on the Kaggle's [competition page](https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics/overview)
+More information can be found on the Kaggle's [competition page](https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics/overview).
 
 ### Problem Set
 The aim of this project is to build a model that can predict whether a user opens the emails sent by Shopee.
