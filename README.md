@@ -16,3 +16,5 @@ Email nature
 Users’ engagement on the platform
 User’s reaction to the email, including whether users opened the email
 Based on the data provided, you must predict whether each user will open an email sent to him/her.
+
+#### *All data used are provided by Shopee, the challenge's organizer
