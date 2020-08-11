@@ -11,10 +11,10 @@ Sending emails is one of the marketing channels Shopee uses to reach out to our 
 ### Task
 We provide you with data related to marketing emails (Electronic Direct Mail) that were sent to Shopee users over a certain period. It contains information about:
 
-User-specific information
-Email nature
-Users’ engagement on the platform
-User’s reaction to the email, including whether users opened the email
-Based on the data provided, you must predict whether each user will open an email sent to him/her.
+User-specific information <br/>
+Email nature <br/>
+Users’ engagement on the platform <br/>
+User’s reaction to the email, including whether users opened the email <br/>
+Based on the data provided, you must predict whether each user will open an email sent to him/her <br/>
 
 #### *All data used are provided by Shopee, the challenge's organizer
